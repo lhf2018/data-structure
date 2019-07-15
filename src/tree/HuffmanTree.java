@@ -11,7 +11,7 @@ import java.util.Queue;
 
 import static java.util.Collections.swap;
 
-public class Huffman_Tree {
+public class HuffmanTree {
     /**
      * 定义哈夫曼树的节点
      * @param <T>
@@ -140,7 +140,7 @@ public class Huffman_Tree {
         nodes.add(new Node("E", 10.0));
         nodes.add(new Node("F", 2.0));
 
-        Node root = Huffman_Tree.createTree(nodes);
+        Node root = HuffmanTree.createTree(nodes);
         List<Node> list=BFS(root);
         for(int i=0;i<list.size();i++){
             System.out.println(list.get(i));

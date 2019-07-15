@@ -1,4 +1,4 @@
-package linear_list;
+package LinearList;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ import java.util.List;
  * 3.最后把list赋值给一个二维数组。
  *
  */
-public class array_interval {
+public class ArrayInterval {
     public int[][] intervalIntersection(int[][] A, int[][] B) {
         List<int[]> list=new ArrayList<>();
         int len_A=A.length;

@@ -4,7 +4,7 @@ package sort;
  * 快速排序
  * 方法一：指针交换法
  */
-public class Quicksort {
+public class QuickSort {
     /**
      * 方法一：指针交换法
      * 链接：http://www.sohu.com/a/246785807_684445
@@ -46,7 +46,7 @@ public class Quicksort {
 
     public static void main(String[] args) {
         int[] array={12,4,6,7,1,16,22,2,5,9,13,10};
-        Quicksort.subSort1(array,0,array.length-1);
+        QuickSort.subSort1(array,0,array.length-1);
         for(int i=0;i<array.length;i++){
             System.out.println(array[i]);
         }

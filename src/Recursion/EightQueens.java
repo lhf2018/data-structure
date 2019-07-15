@@ -1,6 +1,6 @@
-package recursion;
+package Recursion;
 
-public class Eight_queens {
+public class EightQueens {
     public static int[][] arry=new int[8][8];//棋盘，存放皇后
     private static int res=0;
     /*

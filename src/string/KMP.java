@@ -4,7 +4,7 @@ package string;
  * 本算法实现字符串查找的kmp算法
  * 可参考博客：https://www.cnblogs.com/ZuoAndFutureGirl/p/9028287.html
  */
-public class kmp {
+public class KMP {
     public int Kmpsearch(String s,String p){
         /*
         得到字符串p的next数组
@@ -59,7 +59,7 @@ public class kmp {
      * 测试结果:15
      */
     public static void main(String[] args) {
-        kmp kmp=new kmp();
+        KMP kmp=new KMP();
         System.out.println(kmp.Kmpsearch("BBC ABCDAB ABCDABCDABDE","ABCDABD"));
     }
 }

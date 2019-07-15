@@ -4,7 +4,7 @@ package graph;
  * prim算法生成最小生成树
  * 使用邻接矩阵（二维数组）
  */
-public class prim {
+public class Prim {
     private char[] mVexs;//顶点集合
     private int[][] mMatrix;//邻接矩阵
     private static final int INF=Integer.MAX_VALUE;
@@ -15,7 +15,7 @@ public class prim {
      *     vexs  -- 顶点数组
      *     matrix-- 矩阵(数据)
      */
-    public prim(char[] Vexs,int[][] Matrix){
+    public Prim(char[] Vexs, int[][] Matrix){
 //        初始化顶点数和边数
         int vlen=Vexs.length;
 
@@ -118,10 +118,10 @@ public class prim {
                 /*E*/ { INF, INF,   5,   4,   0,   2,   8},
                 /*F*/ {  16,   7,   6, INF,   2,   0,   9},
                 /*G*/ {  14, INF, INF, INF,   8,   9,   0}};
-        prim pG;
+        Prim pG;
 
         // 采用已有的"图"
-        pG = new prim(vexs, matrix);
+        pG = new Prim(vexs, matrix);
         pG.Prim(0);   // prim算法生成最小生成树
     }
 }

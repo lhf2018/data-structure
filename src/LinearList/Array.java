@@ -1,11 +1,11 @@
-package linear_list;
+package LinearList;
 
 /**
  * 数据结构中最基本的一个结构就是线性结构，而线性结构又分为连续存储结构和离散存储结构。所谓的连续存储结构其实就是数组。
  * 主要是数组的基本操作
  * leetcode 88. Merge Sorted Array
  */
-public class array {
+public class Array {
     /**
      * 题目：
      * 给定两个有序整数数组 nums1 和 nums2，将 nums2 合并到 nums1 中，使得 num1 成为一个有序数组。
@@ -40,7 +40,7 @@ public class array {
     测试结果 1 2 2 3 5 6
      */
     public static void main(String[] args) {
-        array array=new array();
+        Array array=new Array();
         int[] nums1=new int[]{1,2,3,0,0,0};
         int[] nums2=new int[]{2,5,6};
         int m=3;
