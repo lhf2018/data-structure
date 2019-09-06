@@ -5,25 +5,25 @@ package tree;
  * 线索二叉树的实现
  */
 
-/*
- * 定义线索二叉树的节点
- */
-class Node{
-    //0为左孩子，1为前驱节点
-    int ltag=0;
-    //0为右孩子，1为后继节点
-    int rtag=0;
-    //左孩子或者前驱结点
-    Node left=null;
-    //右孩子或后继节点
-    Node right=null;
-    int val;
-    Node(int val){
-        this.val=val;
-    }
-}
-
 public class ThreadedBinaryTree {
+    /*
+     * 定义线索二叉树的节点
+     */
+    class Node{
+        //0为左孩子，1为前驱节点
+        int ltag=0;
+        //0为右孩子，1为后继节点
+        int rtag=0;
+        //左孩子或者前驱结点
+        Node left=null;
+        //右孩子或后继节点
+        Node right=null;
+        int val;
+        Node(int val){
+            this.val=val;
+        }
+    }
+
     private Node root; //根节点
     private int size;          // 大小
     private Node pre = null;   // 线索化的时候保存前驱
