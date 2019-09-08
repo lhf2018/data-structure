@@ -12,7 +12,6 @@
 * 斐波那契查找 FibonacciSearch
 * 分块查找 BlockSearch
 * 哈希查找 HashSearch
-* 希尔排序 ShellSort
 #### 图 graph
 * 最小生成树-prim算法 Prim
 #### 树 tree
@@ -32,5 +31,6 @@
 * 冒泡排序 BubbleSort
 * 选择排序 SelectionSort
 * 直接插入排序 StraightInsertionSort
+* 希尔排序 ShellSort
 #### 采样算法 ReservoirSampling
 * 蓄水池采样算法 ReservoirSampling
