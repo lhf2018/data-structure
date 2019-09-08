@@ -12,6 +12,7 @@
 * 斐波那契查找 FibonacciSearch
 * 分块查找 BlockSearch
 * 哈希查找 HashSearch
+* 希尔排序 ShellSort
 #### 图 graph
 * 最小生成树-prim算法 Prim
 #### 树 tree
