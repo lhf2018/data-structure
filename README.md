@@ -32,5 +32,6 @@
 * 选择排序 SelectionSort
 * 直接插入排序 StraightInsertionSort
 * 希尔排序 ShellSort
+* 堆排序 HeapSort
 #### 采样算法 ReservoirSampling
 * 蓄水池采样算法 ReservoirSampling
