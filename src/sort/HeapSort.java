@@ -69,6 +69,7 @@ public class HeapSort {
                 break;
             }
         }
+        //这是father节点本次最终被交换到的位置
         arr[i]=father;
     }
 }
