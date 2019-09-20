@@ -4,6 +4,7 @@
 * 数组-合并两个有序数组 Array
 * 数组-两个数组区间的交集 ArrayInterval
 * 动态链表-链表的基本操作 LinkedList
+* 静态链表-静态链表的基本操作 StaticLinkList
 #### 字符串 string
 * KMP算法 KMP
 #### 查找算法 find
