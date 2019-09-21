@@ -5,8 +5,10 @@
 * 数组-两个数组区间的交集 ArrayInterval
 * 动态链表-链表的基本操作 LinkedList
 * 静态链表-静态链表的基本操作 StaticLinkList
+* 双向链表 DoublyLinkedList
 #### 字符串 string
 * KMP算法 KMP
+#### 栈和队列 StackandQueue
 #### 查找算法 find
 * 顺序查找 OrderSearch
 * 二分查找 BinSearch
