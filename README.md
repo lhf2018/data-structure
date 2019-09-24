@@ -10,6 +10,7 @@
 * KMP算法 KMP
 #### 栈和队列 StackandQueue
 * 栈 Stack
+* 队列 Queue
 #### 查找算法 find
 * 顺序查找 OrderSearch
 * 二分查找 BinSearch
