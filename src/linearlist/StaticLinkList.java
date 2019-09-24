@@ -1,4 +1,4 @@
-package LinearList;
+package linearlist;
 
 /**
  * 本例用数组实现静态链表，每个节点使用Element对象，对象包含本节点值和下一节点位置
