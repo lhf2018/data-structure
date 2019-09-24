@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 
 public class EightQueens {
     public static int[][] arry=new int[8][8];//棋盘，存放皇后

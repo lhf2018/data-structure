@@ -1,4 +1,4 @@
-package linearlist;
+package LinearList;
 
 /**
  * 设计一个动态链表类

@@ -1,4 +1,4 @@
-package linearlist;
+package LinearList;
 
 /**
  * 数据结构中最基本的一个结构就是线性结构，而线性结构又分为连续存储结构和离散存储结构。所谓的连续存储结构其实就是数组。

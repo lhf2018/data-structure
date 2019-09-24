@@ -1,4 +1,4 @@
-package StackandQueue;
+package stackqueue;
 
 /**
  * 本例用链表实现了一个队列，并实现了push、peek、pop基本操作

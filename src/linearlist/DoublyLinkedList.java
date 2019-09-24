@@ -1,4 +1,4 @@
-package linearlist;
+package LinearList;
 
 import java.util.NoSuchElementException;
 

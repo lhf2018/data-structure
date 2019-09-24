@@ -1,4 +1,4 @@
-package ReservoirSampling;
+package reservoirsampling;
 
 /**
  * 实现蓄水池抽样算法

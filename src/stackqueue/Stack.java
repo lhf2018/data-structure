@@ -1,4 +1,4 @@
-package StackandQueue;
+package stackqueue;
 
 /**
  * 本例用链表实现了栈，展示了栈的peek，pop，push的基本操作
