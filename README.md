@@ -7,6 +7,7 @@
 * 静态链表-静态链表的基本操作 StaticLinkList
 * 双向链表 DoublyLinkedList
 #### 字符串 string
+* BF算法 BF
 * KMP算法 KMP
 #### 栈和队列 stackqueue
 * 栈-用链表实现 Stack
