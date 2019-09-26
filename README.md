@@ -9,6 +9,8 @@
 #### 字符串 string
 * BF算法 BF
 * KMP算法 KMP
+#### 广义表 generalizedtable
+* 对称矩阵的压缩 SymmetricMatrixCompression
 #### 栈和队列 stackqueue
 * 栈-用链表实现 Stack
 * 队列-用链表实现 Queue
