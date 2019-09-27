@@ -24,6 +24,7 @@
 * 哈希查找 HashSearch
 #### 图 graph
 * 最小生成树-Prim算法 Prim
+* 十字链表 OrthogonalList
 #### 树 tree
 * 字典树 Trie
 * 哈夫曼树 HuffmanTree
