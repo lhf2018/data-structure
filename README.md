@@ -26,6 +26,9 @@
 #### 图 graph
 * 最小生成树-Prim算法 Prim
 * 十字链表 OrthogonalList
+* 无向图邻接矩阵 AdjacencyMatrixUDG
+* 有向图邻接矩阵 AdjacencyMatrixDG
+* 邻接表 AdjacencyList
 #### 树 tree
 * 字典树 Trie
 * 哈夫曼树 HuffmanTree
