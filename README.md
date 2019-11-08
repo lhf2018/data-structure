@@ -50,3 +50,5 @@
 * 堆排序 HeapSort
 #### 采样算法 reservoirsampling
 * 蓄水池采样算法 ReservoirSampling
+#### 操作系统 os
+* LRU算法 LRUCachel
