@@ -52,3 +52,7 @@
 * 蓄水池采样算法 ReservoirSampling
 #### 操作系统 os
 * LRU算法 LRUCachel
+#### 洗牌算法 shuffle
+* FisherYates算法 FisherYates
+* KnuthDurstenfeld算法 KnuthDurstenfeld
+* InsideOut算法 InsideOut
