@@ -48,6 +48,7 @@
 * 直接插入排序 StraightInsertionSort
 * 希尔排序 ShellSort
 * 堆排序 HeapSort
+* 基数排序 RadixSort
 #### 采样算法 reservoirsampling
 * 蓄水池采样算法 ReservoirSampling
 #### 操作系统 os
